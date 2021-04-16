@@ -1,10 +1,15 @@
-### Hi, I'm Yushan Dangol
-#### Aspiring Developer
+# Hi, I'm Yushan Dangol
+## Aspiring Developer
 ![Aspiring Developer](https://github.com/usndangol97/usndangol97/blob/main/Banner.png)
 
 Hello I'm Yushan Dangol from Lalitpur, Nepal. I'm an aspiring developer. I really enjoy learning new things. I take a joy in wireframing, ui and designing, and I'm fairly new to Github community and programming community.
 
 Skills:  Django / JS / HTML / CSS
+## Skills: 
+ * (https://img.pngio.com/django-server-integration-wysiwyg-html-editor-froala-django-png-2048_1024.png)Django
+ * Vanilla JS
+ * HTML 
+ * CSS
 
 - 🔭 I’m currently working on my portfolio site 
 - 🌱 I’m currently learning Android Development 

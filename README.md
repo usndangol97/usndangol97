@@ -6,7 +6,7 @@ Hello I'm Yushan Dangol from Lalitpur, Nepal. I'm an aspiring developer. I reall
 
 Skills:  Django / JS / HTML / CSS
 ## Skills: 
- * (https://img.pngio.com/django-server-integration-wysiwyg-html-editor-froala-django-png-2048_1024.png)Django
+ * (https://github.com/usndangol97/usndangol97/blob/main/django.png)Django
  * Vanilla JS
  * HTML 
  * CSS

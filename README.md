@@ -14,7 +14,9 @@ Hello I'm Yushan Dangol from Lalitpur, Nepal. I'm an aspiring developer. I reall
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/usndangol97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__usn___/)  
+ <a href="https://github.com/usndangol97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" /></a>
+<a href="https://instagram.com/__usn___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__usn___" height="30" width="40" /></a>
+</p>
 
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usndangol97)](https://github.com/anuraghazra/github-readme-stats)

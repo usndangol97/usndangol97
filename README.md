@@ -1,6 +1,6 @@
-### Hi there 👋, Hi, I'm Yushan Dangol
+### Hi, I'm Yushan Dangol
 #### Aspiring Developer
-![Aspiring Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Aspiring Developer](https://github.com/usndangol97/usndangol97/blob/main/Banner.png)
 
 Hello I'm Yushan Dangol from Lalitpur, Nepal. I'm an aspiring developer. I really enjoy learning new things. I take a joy in wireframing, ui and designing, and I'm fairly new to Github community and programming community.
 

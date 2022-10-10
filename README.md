@@ -22,5 +22,8 @@ Hello I'm Yushan Dangol from Lalitpur, Nepal. I'm an aspiring developer, machine
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usndangol97)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=usndangol97&theme=dark" alt="usndangol97" /></p>
+<a href="">
+  <img width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usndangol97&layout=compact&theme=dark" />
+</a>
 
 
